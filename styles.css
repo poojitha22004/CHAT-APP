@@ -1,0 +1,54 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background: #282c34;
+  color: white;
+  padding: 1rem;
+  text-align: center;
+}
+
+.messages {
+  height: 60vh;
+  overflow-y: scroll;
+  padding: 1rem;
+  background: #f0f0f0;
+}
+
+.message {
+  display: flex;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.message.sent {
+  justify-content: flex-end;
+}
+
+.message.received {
+  justify-content: flex-start;
+}
+
+.message img {
+  width: 30px;
+  border-radius: 50%;
+  margin-right: 0.5rem;
+}
+
+form {
+  display: flex;
+  padding: 1rem;
+  border-top: 1px solid #ccc;
+}
+
+input {
+  flex: 1;
+  padding: 0.5rem;
+}
+
+button {
+  padding: 0.5rem 1rem;
+}
