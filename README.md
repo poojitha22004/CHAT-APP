@@ -1,3 +1,55 @@
+# ⚡ React Firebase Chat App
+
+A simple real-time chat application built with **React** and **Firebase (Cloud Firestore)**. It allows users to sign in with Google, send and receive messages in real-time, and logout securely.
+
+---
+
+## 🚀 Features
+
+- 🔐 Google Authentication (Firebase Auth)
+- 💬 Real-time chat via Cloud Firestore
+- 🧠 Firebase Modular SDK (v9+)
+- 💻 Responsive design
+- 🕒 Message timestamps
+- ✅ Logout functionality
+
+---
+
+## 📸 Demo
+
+> Live demo: _[Add your deployed URL here]_  
+> Example: https://chatapp-yourname.vercel.app
+
+---
+
+## 🧰 Tech Stack
+
+- **React** (Create React App)
+- **Firebase** (Auth + Firestore)
+- **JavaScript**
+- **CSS** (custom styles or Tailwind optional)
+
+---
+
+## 🛠 Installation
+
+1. **Clone the repo**
+
+```bash
+git clone https://github.com/yourusername/react-firebase-chat.git
+cd react-firebase-chat
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
